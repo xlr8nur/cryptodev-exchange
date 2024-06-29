@@ -1,6 +1,6 @@
 ## CryptoDev Exchange
 This is CryptoDev Exchange. Connect your wallet and swap your Ethereum with CryptoDev Tokens.
-In order to do that, you should have some ethereum in order to do the swap.
+So to achieve this, you should have some ethereum to do the swap.
 
 ## Usage
 Click [here](https://cryptodev-exchange-rosy.vercel.app/) to reach to website.
